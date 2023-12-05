@@ -2,8 +2,10 @@
   "name": "advent-of-code",
   "version": "1.0.0",
   "scripts": {
-    "2023:1": "ts-node 2023/day1/day1.ts",
-    "2023:1:test": "ts-node '2023/day1/day1.test.ts'"
+    "2023:1a": "ts-node 2023/day1/day1a.ts",
+    "2023:1a:test": "ts-node 2023/day1/day1a.test.ts",
+    "2023:1b": "ts-node 2023/day1/day1b.ts",
+    "2023:1b:test": "ts-node 2023/day1/day1b.test.ts"
   },
   "repository": {
     "type": "git",
